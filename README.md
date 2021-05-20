@@ -1,5 +1,5 @@
 # Parameterized-functions
-Using the SQLBook database and using lessons from Data Analysis Using SQL and Excel, 2nd Edition by Mr. Gordon S. Linoff, created the following parameterized functions:
+Using the SQLBook database and lessons learnt from Data Analysis Using SQL and Excel, 2nd Edition by Mr. Gordon S. Linoff, created the following parameterized functions:
 
 1. Create a parametrized function to obtain the top 10 customers by amount ordered within a specific time period and state
 2. Create a function to find the top 5 cities based on order amount in a particular state and within a specific time period
